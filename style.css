@@ -1,0 +1,20 @@
+body
+{
+background-size: cover;
+}
+
+.copy_right_footer
+{
+position: fixed;
+background-color: blanchedalmond;
+color: black;
+bottom: 0;
+width: 100%;
+line-height: 3;
+text-align: center;
+}
+
+.heading
+{
+font-size: 30px;
+}
